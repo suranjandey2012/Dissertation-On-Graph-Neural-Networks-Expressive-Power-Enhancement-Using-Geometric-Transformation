@@ -1,0 +1,1 @@
+-e "data/\ndataset/\n*.pt\n*.pkl\n*.pickle\n__pycache__/" 
